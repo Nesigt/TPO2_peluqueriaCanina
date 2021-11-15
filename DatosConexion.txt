@@ -1,0 +1,6 @@
+Nombre BD: peluqueria_canina
+Usuario conexión: pel_can
+contraseña: 1234
+
+port utilizado por problemas con MySQL Workbench y XAMPP: 3307
+versión de NetBeans: 8.2 | versión del driver para la conexión: 8.0.26
